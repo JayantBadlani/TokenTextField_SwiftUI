@@ -5,7 +5,7 @@
 https://github.com/JayantBadlani/TokenTextField_SwiftUI/assets/37996543/1ec51584-435a-4ed9-b47e-ac0ee055e3c2
 
 ## Installation
-To use Tinder Card Swiper in your project, simply copy the TokenTextField_SupportFiles files folder into your project's source code. You can then import the TokenTextField class into any SwiftUI view where you want to use it.
+To use Tinder Card Swiper in your project, simply copy the ##TokenTextField_SupportFiles## files folder into your project's source code. You can then import the TokenTextField class into any SwiftUI view where you want to use it.
 
 ### Usage
 To use Tinder Card Swiper, you'll first need to create a array of tokens that you want to display. Each token should be represented as a token view, and can contain any type of text content you like.
