@@ -1,10 +1,10 @@
 # TokenTextField / TagTextField in SwiftUI
 
-## TokenTextField is a SwiftUI component that facilitates the creation of a token field, allowing users to convert text into easily selectable and manipulable tokens, similar to the iOS Mail app.
+### TokenTextField is a SwiftUI component that facilitates the creation of a token field, allowing users to convert text into easily selectable and manipulable tokens, similar to the iOS Mail app.
 
 https://github.com/JayantBadlani/TokenTextField_SwiftUI/assets/37996543/1ec51584-435a-4ed9-b47e-ac0ee055e3c2
 
-### Installation
+## Installation
 To use Tinder Card Swiper in your project, simply copy the TokenTextField_SupportFiles files folder into your project's source code. You can then import the TokenTextField class into any SwiftUI view where you want to use it.
 
 ### Usage
